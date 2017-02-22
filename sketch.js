@@ -18,3 +18,4 @@ function draw() {
   ellipse(280, 320, 50, 50)
   rect(320, 300, 50, 50)
 }
+//writing a comment on chris's js file
